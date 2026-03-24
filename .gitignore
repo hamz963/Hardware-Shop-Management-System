@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+Hardware Shop.spec
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Database
+shop.db
+shop_data.json
+
+# Logs
+*.log
+
+# PyInstaller binaries
+*.exe
+icon.ico
+
+# OS generated files
+.DS_Store
+Thumbs.db
